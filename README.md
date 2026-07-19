@@ -11,7 +11,7 @@
 공공기관 프로젝트를 4년간 만들어 온 개발자입니다.
 기상청, ETRI, 한국수력원자력, 부천시의 서비스를 React로 그리고, Spring으로 연결했습니다.
 
-- 🇨🇦 8 years in Canada — English docs are my first stop when debugging
+- 🍁 8 years in Canada — English docs are my first stop when debugging
 - 📦 14 public-sector projects delivered, **zero missed deadlines**
 - 🧭 Front-end at heart, expanding into back-end & infra
 - 📝 I document everything — introduced GitLab CI/CD & wiki culture to my team
@@ -40,18 +40,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-## GitHub Stats
-
-<div align="center">
-
-![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngRG26&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngRG26&layout=compact&hide_border=true&langs_count=6)
-
-</div>
-
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat-square&logo=githubpages&logoColor=white)](https://angrg26.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat-square&logo=github&logoColor=white)](https://angrg26.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chlwjdtn15@hotmail.com)
 
 ---
