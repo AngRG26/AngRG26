@@ -1,15 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=180&text=Jake%20Choi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20in%20Seoul.%20Ships%20on%20time.&descSize=18&descAlignY=58)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=180&text=Jake%20Choi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20in%20Seoul.%20Ships%20on%20time.&descSize=18&descAlignY=58" alt="header" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Front-End+Developer+%E2%86%92+Full-Stack;4%2B+years+of+public-sector+projects;100%25+on-time+delivery%2C+zero+missed+deadlines)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Front-End+Developer+%E2%86%92+Full-Stack;4%2B+years+of+public-sector+projects;100%25+on-time+delivery%2C+zero+missed+deadlines" alt="typing" />
 
 </div>
 
 ## About Me
 
 I've spent the last 4 years building services for Korean public institutions —
-drawing interfaces with React, connecting them with Spring, for KMA, ETRI, KHNP, and the city of Bucheon.
+drawing interfaces with React and connecting them with Spring, for the Korea Meteorological Administration (KMA), the Electronics and Telecommunications Research Institute (ETRI), Korea Hydro & Nuclear Power (KHNP), and Bucheon City.
 
 - 🍁 8 years in Canada — English docs are my first stop when debugging
 - 📦 14 public-sector projects delivered, **zero missed deadlines**
@@ -49,6 +49,6 @@ drawing interfaces with React, connecting them with Spring, for KMA, ETRI, KHNP,
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" alt="footer" />
 
 </div>
