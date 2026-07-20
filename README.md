@@ -9,7 +9,7 @@
 ## About Me
 
 I've spent the last 4 years building services for Korean public institutions —
-drawing interfaces with React and connecting them with Spring, for the Korea Meteorological Administration (KMA), the Electronics and Telecommunications Research Institute (ETRI), Korea Hydro & Nuclear Power (KHNP), and Bucheon City.
+drawing interfaces with React and connecting them with Spring, for the Korea Meteorological Administration (KMA), the Electronics and Telecommunications Research Institute (ETRI), Korea Hydro & Nuclear Power (KHNP), and Bucheon City, among others.
 
 - 🍁 8 years in Canada — English docs are my first stop when debugging
 - 📦 14 public-sector projects delivered, **zero missed deadlines**
