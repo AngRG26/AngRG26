@@ -42,7 +42,6 @@ drawing interfaces with React and connecting them with Spring, for the Korea Met
 
 ## Contact
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat-square&logo=github&logoColor=white)](https://angrg26.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chlwjdtn15@hotmail.com)
 
 ---
