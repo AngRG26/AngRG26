@@ -2,7 +2,7 @@
 
 <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=180&text=Jake%20Choi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20in%20Seoul.%20Ships%20on%20time.&descSize=18&descAlignY=58" alt="header" /></picture>
 
-<picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Front-End+Developer+%E2%86%92+Full-Stack;4%2B+years+of+public-sector+projects;100%25+on-time+delivery%2C+zero+missed+deadlines" alt="typing" /></picture>
+<picture><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&lines=Front-End+Developer+%E2%86%92+Full-Stack;4%2B+years+of+public-sector+projects;100%25+on-time+delivery%2C+zero+missed+deadlines" alt="typing" /></picture>
 
 </div>
 
