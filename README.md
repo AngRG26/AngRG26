@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=180&text=Jake%20Choi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20in%20Seoul.%20Ships%20on%20time.&descSize=18&descAlignY=58)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Front-End+Developer+%E2%86%92+Full-Stack;4%2B+years+of+public-sector+projects;100%25+on-time+delivery%2C+zero+missed+deadlines)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=520&lines=Front-End+Developer+%E2%86%92+Full-Stack;4%2B+years+of+public-sector+projects;100%25+on-time+delivery%2C+zero+missed+deadlines)
 
 </div>
 
 ## About Me
 
-공공기관 프로젝트를 4년간 만들어 온 개발자입니다.
-기상청, ETRI, 한국수력원자력, 부천시의 서비스를 React로 그리고, Spring으로 연결했습니다.
+I've spent the last 4 years building services for Korean public institutions —
+drawing interfaces with React, connecting them with Spring, for KMA, ETRI, KHNP, and the city of Bucheon.
 
 - 🍁 8 years in Canada — English docs are my first stop when debugging
 - 📦 14 public-sector projects delivered, **zero missed deadlines**
@@ -42,6 +42,7 @@
 
 ## Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563eb?style=flat-square&logo=github&logoColor=white)](https://angrg26.github.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chlwjdtn15@hotmail.com)
 
 ---
